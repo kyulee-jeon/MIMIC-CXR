@@ -1,0 +1,6 @@
+pydicom>=3.0      # used by third_party/dicom_to_parquet
+pyarrow
+pandas
+psycopg2-binary
+openpyxl         # only for mappings/build_tag_spec.py
+pytest

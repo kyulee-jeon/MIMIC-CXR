@@ -1,0 +1,2 @@
+modality_group,dicom_modality_values,io_id_base,feature_id_base,measurement_id_base,anatomic_site_concept_id,feature_inherits_anatomic_site,feature_has_instance_uid,measurement_source_concept_id,procedure_link_source_value,measurement_type_concept_id,note
+CXR,DX|CR,900000000,910000000,940000000,37303885,Y,Y,0,225459,32817,"1 image_occurrence per (study_uid, series_uid); every instance keeps its own feature rows (image_instance_uid); procedure link = same person + same date + procedure_source_value 225459 (Plain X-ray of chest)"

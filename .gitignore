@@ -1,0 +1,6 @@
+work/
+vocabulary/out/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+config.py
